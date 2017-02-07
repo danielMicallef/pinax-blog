@@ -23,6 +23,7 @@ if you don't already use it:
         # ...
         "django.contrib.sites"
         "pinax.blog",
+        "pinax.images",
         # ...
     )
 
